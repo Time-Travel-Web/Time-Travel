@@ -154,12 +154,18 @@ p{
 
 
 .pavan{
+  padding-top: 10px;
+  background-color:#20262E;
+  color: white;
   font-family: 'Montserrat', sans-serif;
   padding-left: 10px;
   float: left;
   width: 50%;
 }
 .manoj{
+  padding-top: 10px;
+  background-color:#20262E;
+  color: white;
   font-family: 'Montserrat', sans-serif;
   padding-left: 10px;
   float: right;
