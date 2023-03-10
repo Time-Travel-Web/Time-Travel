@@ -48,7 +48,7 @@ p
 	
 }
 .button {
-  background-color: DodgerBlue;
+  box-shadow: 0 0 5px #BAD7E9,0 0 25px #BAD7E9;
   border:none;
   color:white;
   padding: 15px 32px;
