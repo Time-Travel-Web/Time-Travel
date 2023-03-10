@@ -1,7 +1,7 @@
 
 @import "https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap";
 
-.first{
+#home{
   background-color: black;
   background-attachment: fixed;
   background-size: cover;
@@ -85,7 +85,7 @@ p{
   font-size: 17px;
 
 }
-.about{
+.whole{
   margin-top: 30px;
   margin-left: 30px;
   margin-right: 30px;
@@ -121,7 +121,7 @@ p{
   float: right;
   width: 50%;
 }
-.whole{
+#about{
   background-color:#20262E;
   color: white;
 }
