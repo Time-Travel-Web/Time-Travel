@@ -1,7 +1,66 @@
-
 @import "https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap";
+.tot
+{
+	background-color:black;
+	color:white;
+}
+.timetr
+{
+	background-image:url("Body_bg.jpeg");
+}
+.contact
+{
+	background-image:url("cont.png");
+}
+.par
+{
+	font-size:29px;
+line-height:1.5;
+}
+image1,image2,image3 {
+display: block;
+margin: auto;
+border-radius: 100%;
+border: 3px solid white;
+}
+figcaption
+{
+	color:white; font-size:20px;
+}
+h1
+{
+	color:white;
+}
+p
+{
+	color:white;	
+	font-size:25px;
+}
+.cont
+{
+	font-size:21px;
+	padding-left:40px;
+	padding-top:40px;
+	padding-right:40px;
+	padding-bottom:20px;
+	border:5px outset white;
+	width:400px;
+	
+}
+.button {
+  background-color: DodgerBlue;
+  border:none;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
 
-#home{
+.first{
   background-color: black;
   background-attachment: fixed;
   background-size: cover;
@@ -72,7 +131,7 @@ h1{
   justify-content: space-space-between;
 }
 p{
-  font-size: 17px;
+  font-size: 22px;
   font-family: 'Montserrat', sans-serif;
 }
 .head{
@@ -85,27 +144,22 @@ p{
   font-size: 17px;
 
 }
-.whole{
+.about{
   margin-top: 30px;
   margin-left: 30px;
   margin-right: 30px;
+  background-color:black;	
 }
 
 
 
 .pavan{
-  padding-top: 10px;
-  background-color:#20262E;
-  color: white;
   font-family: 'Montserrat', sans-serif;
   padding-left: 10px;
   float: left;
   width: 50%;
 }
 .manoj{
-  padding-top: 10px;
-  background-color:#20262E;
-  color: white;
   font-family: 'Montserrat', sans-serif;
   padding-left: 10px;
   float: right;
@@ -127,53 +181,7 @@ p{
   float: right;
   width: 50%;
 }
-#about{
+.whole{
   background-color:#20262E;
   color: white;
 }
-.par
-{
-	font-size:22px;
-line-height:1.5;
-}
-image1,image2,image3 {
-display: block;
-margin: auto;
-border-radius: 100%;
-border: 3px solid white;
-}
-figcaption
-{
-	color:white; font-size:20px;
-}
-h1
-{
-	color:white;
-}
-p
-{
-	color:white;
-}
-.cont
-{
-	font-size:21px;
-	padding-left:40px;
-	padding-top:40px;
-	padding-right:40px;
-	padding-bottom:20px;
-	border:5px outset white;
-	width:400px;
-}
-.button {
-  background-color: DodgerBlue;
-  border:none;
-  color:white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 2px 2px;
-  cursor: pointer;
-}
-
